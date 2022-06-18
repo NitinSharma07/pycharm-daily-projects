@@ -1,0 +1,1 @@
+# pycharm-daily-projects
